@@ -16,4 +16,18 @@ module('Acceptance | ember super rentals', function (hooks) {
 
     assert.equal(currentURL(), '/about');
   });
+
+  test('navigating using the nav-bar', async function (assert) {
+    await visit('/');
+
+    assert.dom('nav').exists();
+    assert.dom('nav a.menu-index').hasText('SuperRentals');
+    assert.dom('nav a.menu-about').hasText('About');
+
+    await click('nav a.menu-about');
+    assert.equal(currentURL(), '/about');
+
+    await click('nav a.menu-index');
+    assert.equal(currentURL(), '/');
+  });
 });
