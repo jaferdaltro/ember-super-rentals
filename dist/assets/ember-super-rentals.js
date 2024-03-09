@@ -389,8 +389,8 @@
   });
   _exports.default = void 0;
   var _default = _exports.default = (0, _templateFactory.createTemplateFactory)({
-    "id": "XcunPitC",
-    "block": "[[[10,0],[14,0,\"jumbo\"],[12],[1,\"\\n  \"],[10,0],[14,0,\"right tomster\"],[12],[13],[1,\"\\n  \"],[10,\"h2\"],[12],[1,\"About Super Rentals\"],[13],[1,\"\\n  \"],[10,2],[12],[1,\"\\n    The Super Rentals website is a delightful project created to explore Ember.\\n    By building a property rental site, we can simultaneously imagine traveling\\n    AND building Ember applications.\\n  \"],[13],[1,\"\\n  \"],[10,2],[12],[1,\"\\n    \"],[8,[39,0],null,[[\"@route\"],[\"index\"]],[[\"default\"],[[[[1,\"Home\"]],[]]]]],[1,\"\\n  \"],[13],[1,\"\\n\"],[13]],[],false,[\"link-to\"]]",
+    "id": "IoG/80HN",
+    "block": "[[[10,0],[14,0,\"jumbo\"],[12],[1,\"\\n  \"],[10,0],[14,0,\"right tomster\"],[12],[13],[1,\"\\n  \"],[10,\"h2\"],[12],[1,\"About Super Rentals\"],[13],[1,\"\\n  \"],[10,2],[12],[1,\"\\n    The Super Rentals website is a delightful project created to explore Ember.\\n    By building a property rental site, we can simultaneously imagine traveling\\n    AND building Ember applications.\\n  \"],[13],[1,\"\\n  \"],[8,[39,0],[[24,0,\"button\"]],[[\"@route\"],[\"index\"]],[[\"default\"],[[[[1,\"Home\"]],[]]]]],[1,\"\\n\"],[13]],[],false,[\"link-to\"]]",
     "moduleName": "ember-super-rentals/templates/about.hbs",
     "isStrictMode": false
   });
@@ -403,8 +403,8 @@
   });
   _exports.default = void 0;
   var _default = _exports.default = (0, _templateFactory.createTemplateFactory)({
-    "id": "BKDzvA36",
-    "block": "[[[10,0],[14,0,\"jumbo\"],[12],[1,\"\\n  \"],[10,0],[14,0,\"right tomster\"],[12],[13],[1,\"\\n  \"],[10,\"h2\"],[12],[1,\"Welcome to Super Rentals!\"],[13],[1,\"\\n  \"],[10,2],[12],[1,\"We hope you find exactly what you're looking for in a place to stay.\"],[13],[1,\"\\n  \"],[10,2],[12],[1,\"\\n      \"],[8,[39,0],null,[[\"@route\"],[\"about\"]],[[\"default\"],[[[[1,\"About Super Rentals\"]],[]]]]],[1,\"\\n  \"],[13],[1,\"\\n\"],[13]],[],false,[\"link-to\"]]",
+    "id": "hSoizm+q",
+    "block": "[[[10,0],[14,0,\"jumbo\"],[12],[1,\"\\n  \"],[10,0],[14,0,\"right tomster\"],[12],[13],[1,\"\\n  \"],[10,\"h2\"],[12],[1,\"Welcome to Super Rentals!\"],[13],[1,\"\\n  \"],[10,2],[12],[1,\"We hope you find exactly what you're looking for in a place to stay.\"],[13],[1,\"\\n  \"],[8,[39,0],[[24,0,\"button\"]],[[\"@route\"],[\"about\"]],[[\"default\"],[[[[1,\"About Super Rentals\"]],[]]]]],[1,\"\\n\"],[13]],[],false,[\"link-to\"]]",
     "moduleName": "ember-super-rentals/templates/index.hbs",
     "isStrictMode": false
   });
